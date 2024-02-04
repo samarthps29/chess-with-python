@@ -1,0 +1,165 @@
+1704875911735	geckodriver	INFO	Listening on 127.0.0.1:54596
+1704875914797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54597" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Sam\\AppData\\Local\\Temp\\rust_mozprofileDBmhXO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704875915026	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704875915116	Marionette	INFO	Listening on port 54604
+WebDriver BiDi listening on ws://127.0.0.1:54597
+Read port: 54604
+1704875915224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54597/devtools/browser/eb2e4a47-e20c-4465-8d43-a6cf20f98975
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+1704875945033	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://gql.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?KP_UIDZ_1=07hvu5oNHsMI1qDprO6v6cOTERqLJgLr5XiHJXdQGwNGDlYww1bVEJGVpwF5xG9Ss3Mj0rIauqYZECozXf1ZGT9vCluJj1Ux7eFVNxxyEvduGGnIs32vRXYJPbdabb8ExLE32696SDkKl2LPMatWsMfJUhKZHI3&x-kpsdk-v=j-0.0.0&x-kpsdk-im=CiQ5MTA3NTg0ZC1kZGYzLTQ0YjctYThjNy04YmUxZDM4YmE4Zjg, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gql.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?KP_UIDZ_1=07hvu5oNHsMI1qDprO6v6cOTERqLJgLr5XiHJXdQGwNGDlYww1bVEJGVpwF5xG9Ss3Mj0rIauqYZECozXf1ZGT9vCluJj1Ux7eFVNxxyEvduGGnIs32vRXYJPbdabb8ExLE32696SDkKl2LPMatWsMfJUhKZHI3&x-kpsdk-v=j-0.0.0&x-kpsdk-im=CiQ5MTA3NTg0ZC1kZGYzLTQ0YjctYThjNy04YmUxZDM4YmE4Zjg, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gql.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?KP_UIDZ_1=07hvu5oNHsMI1qDprO6v6cOTERqLJgLr5XiHJXdQGwNGDlYww1bVEJGVpwF5xG9Ss3Mj0rIauqYZECozXf1ZGT9vCluJj1Ux7eFVNxxyEvduGGnIs32vRXYJPbdabb8ExLE32696SDkKl2LPMatWsMfJUhKZHI3&x-kpsdk-v=j-0.0.0&x-kpsdk-im=CiQ5MTA3NTg0ZC1kZGYzLTQ0YjctYThjNy04YmUxZDM4YmE4Zjg, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gql.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?KP_UIDZ_1=07hvu5oNHsMI1qDprO6v6cOTERqLJgLr5XiHJXdQGwNGDlYww1bVEJGVpwF5xG9Ss3Mj0rIauqYZECozXf1ZGT9vCluJj1Ux7eFVNxxyEvduGGnIs32vRXYJPbdabb8ExLE32696SDkKl2LPMatWsMfJUhKZHI3&x-kpsdk-v=j-0.0.0&x-kpsdk-im=CiQ5MTA3NTg0ZC1kZGYzLTQ0YjctYThjNy04YmUxZDM4YmE4Zjg, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://passport.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?ga__15_abel=08O0zUDOWzEJ9P1OuyjBw4fTmF3UrJgJIyR4PQGVOFghjwpn9B3pU3Iq8U1z7Ag2gYNti1VSv74Cqa4m7g0QuTWkxafxG2jJOCFQ53pKbjbw7bCCIeEKEIgQtLSo1UHPWsLWEj8hYxSjsem4mPG2USn4vXh56lU&x-kpsdk-v=j-0.0.0&x-kpsdk-im=CiRkMzc5ODE4My1mNTYxLTQzNDgtYThiNi1iM2Y3MmE4N2Y2ODA, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://passport.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?ga__15_abel=08O0zUDOWzEJ9P1OuyjBw4fTmF3UrJgJIyR4PQGVOFghjwpn9B3pU3Iq8U1z7Ag2gYNti1VSv74Cqa4m7g0QuTWkxafxG2jJOCFQ53pKbjbw7bCCIeEKEIgQtLSo1UHPWsLWEj8hYxSjsem4mPG2USn4vXh56lU&x-kpsdk-v=j-0.0.0&x-kpsdk-im=CiRkMzc5ODE4My1mNTYxLTQzNDgtYThiNi1iM2Y3MmE4N2Y2ODA, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://passport.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?ga__15_abel=08O0zUDOWzEJ9P1OuyjBw4fTmF3UrJgJIyR4PQGVOFghjwpn9B3pU3Iq8U1z7Ag2gYNti1VSv74Cqa4m7g0QuTWkxafxG2jJOCFQ53pKbjbw7bCCIeEKEIgQtLSo1UHPWsLWEj8hYxSjsem4mPG2USn4vXh56lU&x-kpsdk-v=j-0.0.0&x-kpsdk-im=CiRkMzc5ODE4My1mNTYxLTQzNDgtYThiNi1iM2Y3MmE4N2Y2ODA, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://passport.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?ga__15_abel=08O0zUDOWzEJ9P1OuyjBw4fTmF3UrJgJIyR4PQGVOFghjwpn9B3pU3Iq8U1z7Ag2gYNti1VSv74Cqa4m7g0QuTWkxafxG2jJOCFQ53pKbjbw7bCCIeEKEIgQtLSo1UHPWsLWEj8hYxSjsem4mPG2USn4vXh56lU&x-kpsdk-v=j-0.0.0&x-kpsdk-im=CiRkMzc5ODE4My1mNTYxLTQzNDgtYThiNi1iM2Y3MmE4N2Y2ODA, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://passport.twitch.tv/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js?ga__15_abel=08O0zUDOWzEJ9P1OuyjBw4fTmF3UrJgJIyR4PQGVOFghjwpn9B3pU3Iq8U1z7Ag2gYNti1VSv74Cqa4m7g0QuTWkxafxG2jJOCFQ53pKbjbw7bCCIeEKEIgQtLSo1UHPWsLWEj8hYxSjsem4mPG2USn4vXh56lU&x-kpsdk-v=j-0.0.0&x-kpsdk-im=CiRkMzc5ODE4My1mNTYxLTQzNDgtYThiNi1iM2Y3MmE4N2Y2ODA, line 27: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Object
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+JavaScript warning: https://static.twitchcdn.net/assets/vendor-8d1960311c09b8b4b875.js, line 1: Script terminated by timeout at:
+l@https://static.twitchcdn.net/assets/vendor-8d1960311c09b8b4b875.js:1:1562047
+938085/A/</<@https://static.twitchcdn.net/assets/vendor-8d1960311c09b8b4b875.js:1:1562130
+938085/g/<@https://static.twitchcdn.net/assets/vendor-8d1960311c09b8b4b875.js:1:1559993
+t@https://static.twitchcdn.net/assets/vendor-8d1960311c09b8b4b875.js:1:1559864
+
+1704875983922	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.chess.com/bundles/app/js/sentry.client.00d8ba90.js, line 14: Script terminated by timeout at:
+sentryWrapped@https://www.chess.com/bundles/app/js/sentry.client.00d8ba90.js:14:69710
+
+1704876317586	Marionette	INFO	Stopped listening on port 54604
+Dynamically enable window occlusion 1
+1704876319302	geckodriver	INFO	Listening on 127.0.0.1:55078
+1704876322342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55079" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Sam\\AppData\\Local\\Temp\\rust_mozprofilevWH75U"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704876322570	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704876322662	Marionette	INFO	Listening on port 55087
+WebDriver BiDi listening on ws://127.0.0.1:55079
+Read port: 55087
+1704876322783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55079/devtools/browser/4512ccfe-ffac-48f2-96c0-c96bd15fe146
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+JavaScript error: https://www.chess.com/bundles/app/js/pubsub-connection.client.d8d32ad0.js, line 1: Error: Request failed with status code 401
+JavaScript error: https://www.chess.com/bundles/app/js/home.client.fabd768a.js, line 1: Error: Request failed with status code 401
+JavaScript error: https://www.chess.com/bundles/app/js/navigation.client.7f6ffdc8.js, line 1: Error: Request failed with status code 401
+1704876352812	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: uncaught exception: Object
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1704876398873	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1704876411548	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.chess.com/bundles/app/js/sentry.client.00d8ba90.js, line 14: Script terminated by timeout at:
+sentryWrapped@https://www.chess.com/bundles/app/js/sentry.client.00d8ba90.js:14:69710
+
+1704878102633	Marionette	INFO	Stopped listening on port 55087
+Dynamically enable window occlusion 1
+1704878107040	geckodriver	INFO	Listening on 127.0.0.1:64028
+1704878110067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64029" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Sam\\AppData\\Local\\Temp\\rust_mozprofilepd7xAV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704878110466	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704878110615	Marionette	INFO	Listening on port 64036
+Read port: 64036
+WebDriver BiDi listening on ws://127.0.0.1:64029
+1704878110703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64029/devtools/browser/a56bbed1-3433-4bf1-89b7-d360d265f832
+1704878140478	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+1704878175204	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1704878179232	Marionette	INFO	Stopped listening on port 64036
+Dynamically enable window occlusion 1
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1704878267818	geckodriver	INFO	Listening on 127.0.0.1:64081
+1704878270855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64082" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Sam\\AppData\\Local\\Temp\\rust_mozprofileAUD1xX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704878271233	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704878271383	Marionette	INFO	Listening on port 64093
+WebDriver BiDi listening on ws://127.0.0.1:64082
+Read port: 64093
+1704878271625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64082/devtools/browser/12ab6669-cc5d-48f4-bcdd-f1de4cb927b8
+1704878301721	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+JavaScript error: https://www.chess.com/bundles/app/js/language-banner-loader.client.646adc74.js, line 1: Error: Request aborted
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1704878450975	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1704878451983	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1704878485104	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1704878491126	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1704878504890	geckodriver	INFO	Listening on 127.0.0.1:64520
+1704878507930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64521" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Sam\\AppData\\Local\\Temp\\rust_mozprofilefzEYCb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704878508311	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704878508461	Marionette	INFO	Listening on port 64528
+WebDriver BiDi listening on ws://127.0.0.1:64521
+Read port: 64528
+1704878508669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64521/devtools/browser/7c8f1d0b-4b20-411b-bab6-02af90e7dcc3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+1704878538336	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.twitchcdn.net/assets/vendor-8d1960311c09b8b4b875.js, line 1: Script terminated by timeout at:
+l@https://static.twitchcdn.net/assets/vendor-8d1960311c09b8b4b875.js:1:1562047
+938085/A/</<@https://static.twitchcdn.net/assets/vendor-8d1960311c09b8b4b875.js:1:1562130
+938085/g/<@https://static.twitchcdn.net/assets/vendor-8d1960311c09b8b4b875.js:1:1559993
+t@https://static.twitchcdn.net/assets/vendor-8d1960311c09b8b4b875.js:1:1559864
+
+1704878849991	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1704878906460	Marionette	INFO	Stopped listening on port 64528
+Dynamically enable window occlusion 1
+1704878923443	geckodriver	INFO	Listening on 127.0.0.1:64844
+1704878926488	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64845" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Sam\\AppData\\Local\\Temp\\rust_mozprofileHw8glx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704878926878	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704878927036	Marionette	INFO	Listening on port 64852
+WebDriver BiDi listening on ws://127.0.0.1:64845
+Read port: 64852
+1704878927251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64845/devtools/browser/3812cd4c-1333-4a26-b41e-e7abb7e1457e
+1704878956965	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chess.com."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-Q0CBHRQJH8&l=dataLayer&cx=c, line 533: Script terminated by timeout at:
+aa.wh@https://www.googletagmanager.com/gtag/js?id=G-Q0CBHRQJH8&l=dataLayer&cx=c:533:89
+get@https://www.googletagmanager.com/gtag/js?id=G-Q0CBHRQJH8&l=dataLayer&cx=c:531:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-Q0CBHRQJH8&l=dataLayer&cx=c:531:87
+aa.Pk/c/<@https://www.googletagmanager.com/gtag/js?id=G-Q0CBHRQJH8&l=dataLayer&cx=c:531:412
+
+1704879124685	Marionette	INFO	Stopped listening on port 64852
+Dynamically enable window occlusion 1
