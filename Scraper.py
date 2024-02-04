@@ -32,6 +32,7 @@ class Scraper:
         self.wait.until(self.visible((By.ID, "login")))
         usernameInput = self.driver.find_element(By.ID, "username")
         passwordInput = self.driver.find_element(By.ID, "password")
+        # don't worry these creds won't work :)
         usernameInput.send_keys("cdzx29@gmail.com")
         passwordInput.send_keys("Testpass123")
         loginButton = self.driver.find_element(By.ID, "login")
